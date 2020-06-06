@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/virtual-escape-room/precache-manifest.b99fb1f585127fdb4c4c274ce5cde5b2.js"
+  "/virtual-escape-room/precache-manifest.cf4c2bce2a485c60654d807f789ac4fb.js"
 );
 
 self.addEventListener('message', (event) => {
