@@ -1,0 +1,168 @@
+.motive { 
+    font-family: "Playfair display", serif;
+    margin-top: 5%;
+    margin-bottom: 2%;
+}
+
+
+.motive .head { 
+    background-color:  rgb(240, 231, 182);
+    text-align: center;
+    font-family: "Bad Script", cursive;
+    padding-top: 2%;
+    font-size: 20px;
+    padding-bottom: 2%;
+    
+}
+
+.screen { 
+    margin-top: 4%;
+    border-style: solid;
+    border-width: 10px;
+    border-color: rgb(172, 172, 172);
+    border-radius: 4%;
+    background-color: white;
+    height: 600px;
+}
+
+.screen .graphic1 { 
+    font-size: 15px;
+    position: absolute;
+    font-family: 'Playfair, display', serif;
+    left: 50px;
+    color: rgb(3, 3, 0);
+    top: 200px;
+    font-weight: bold;
+}
+
+.screen .graphic1 p { 
+    margin: 0;
+    text-align: center;
+}
+.screen .graphic1 .webpage { 
+    height: 100px !important;
+    width: 150px !important;
+}
+
+.screen .graphic2 {
+    position: absolute;
+    top: 220px;
+    left: 300px;
+    font-size: 20px;
+    color: red;
+}
+
+.screen .graphic2 .webpage { 
+    height: 140px !important;
+    width: 300px !important;
+}
+
+.screen .graphic3 { 
+    position: absolute; 
+    top: 400px;
+    left: 100px;
+}
+
+
+.screen .graphic3 .webpage { 
+    height: 140px !important;
+    width: 300px !important;
+}
+.screen .graphic3 .webcontent { 
+    padding: 3%;
+    color: green;
+}
+
+.screen .graphic4 { 
+    position: absolute;
+    top: 250px;
+    left: 650px;
+}
+
+.screen .graphic4 p { 
+    margin: 0;
+    padding: 0;
+}
+
+.screen .graphic4 .webpage { 
+    width: 140px !important;
+    height: 200px;
+    font-size: 13px;
+    color: rgb(170, 111, 1);
+}
+
+.screen .graphic5 { 
+    position: absolute;
+    top: 500px;
+    left: 600px;
+}
+
+.screen .graphic5 .webpage { 
+    width: 200px !important;
+    height: 200px;
+    font-size: 14px;
+    color: rgb(189, 15, 189);
+}
+
+.graphic6 { 
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    left: 470px;
+    top: 450px;
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
+}
+
+.password { 
+    background-color: white;
+    width: 350px;
+    padding: 4%;
+    position: absolute;
+    top: 600px;
+    left: 100px;
+    text-align: center;
+}
+.password input { 
+    width: 18%;
+    background-color: white;
+    border-style: none;
+    border-width: 4px;
+    border-bottom-style: solid;
+    margin-right: 2%;
+    text-align: center;
+    font-size: 25px;
+    padding-top: 8%;
+    color: black;
+}
+.password .first { 
+    border-bottom-color: black;
+}
+
+.password .second { 
+    border-bottom-color: green;
+}
+.password .third {
+    border-bottom-color: rgb(170, 111, 1);
+}
+.password .fourth {
+    border-bottom-color:red;
+}
+.password .fifth {
+    border-bottom-color:rgb(189, 15, 189);
+}
+
+.evidence { 
+    background-color: rgb(228, 220, 220);
+    margin: 4%;
+    padding: 4%;
+    font-size: 18px;
+}
+
+.evidence h2 { 
+    font-weight: bold;
+}
+.evidence h5 { 
+    text-align: center;
+}
