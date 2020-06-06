@@ -57,7 +57,7 @@ class Polygraph extends Component {
                 <Accordion defaultActiveKey="1">
                     <Card> 
                         <Card.Header style = {{backgroundColor: "white", borderStyle: "solid", borderColor: "black", borderWidth: "3px"}}>
-                            <h2 style = {{color: "rgb(85, 7, 7)"}}> Andrew's Inbox </h2> 
+                            <h2 style = {{color: "rgb(85, 7, 7)"}}> Steve's Inbox </h2> 
                         </Card.Header>
                     </Card> 
                     {email_web}

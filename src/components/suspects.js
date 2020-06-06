@@ -124,7 +124,7 @@ class Suspects extends Component {
                                 <SuspectProfile 
                                 name = "Hasan"
                                 alibi = "I was out of town on vacation for the entirety of last night. I was driving up to a beach resort up North and got stuck in traffic on the way back."
-                                relationship = "I'm a high school friend with Andrew. We've actually been best friends since we were 7 and I still can't believe anyone would do this."
+                                relationship = "I'm a high school friend with Steve. We've actually been best friends since we were 7 and I still can't believe anyone would do this."
                                 wardrobe = {["Hawaiian Shirt", "No striped or dress pants", "Rolex Watch (fake)"]} 
                                 /> 
                         </Tab.Pane>
@@ -132,7 +132,7 @@ class Suspects extends Component {
                                 <SuspectProfile 
                                     name = "Samantha"
                                     alibi = "I've been stuck indoors since I broke my leg ice-skating. I haven't been able to go to the hospital because I can't drive the car!"
-                                    relationship = "I went to high school with Andrew and Hasan. They were both so annoying when it came to any classes they had together."
+                                    relationship = "I went to high school with Steve and Hasan. They were both so annoying when it came to any classes they had together."
                                     wardrobe = {["45 unique scrunchies", "No dress pants", "Gucci belt"]} 
                                 /> 
                         </Tab.Pane>
@@ -148,7 +148,7 @@ class Suspects extends Component {
                                 <SuspectProfile 
                                     name = "Claire"
                                     alibi = "I was helping my sister move out of college at Cal (Go Bears) all of yesterday. I just got back today from the airport, and I've just been napping the whole day."
-                                    relationship = "I've been helping Andrew with some finance stuff. I got a degree from NYU Stern in business and he saw it on Linkedin and asked about it."
+                                    relationship = "I've been helping Steve with some finance stuff. I got a degree from NYU Stern in business and he saw it on Linkedin and asked about it."
                                     wardrobe = {["Business Blazer", "No striped, dress or sweat pants", "A grey ski mask"]} 
                                 /> 
                         </Tab.Pane>
@@ -165,7 +165,7 @@ class Suspects extends Component {
                                     <p> 
                                         Unfortunately, due to our system errors, we were unable to get all 
                                         the information from the suspects you identified. We also pulled some information on Spencer, their neighbor 
-                                        who Karen said has just recently been talking to Andrew. What information we did 
+                                        who Karen said has just recently been talking to Steve. What information we did 
                                         manage to get is displayed in the tabs above. We also were able to get information 
                                         from other sources about where some of these people worked shown below. Finally, we know that they each work at one of the 5 companies:
                                         <b> Goldman, Gibson Law, Google, Amazon or Zoom, </b> which each have separate mandatory dress codes.
@@ -175,7 +175,7 @@ class Suspects extends Component {
                                     <li> Neither Hasan or Claire works at Gibson. </li>
                                     <li> If Spencer is wearing stripes he works at Gibson. </li> 
                                     <li> Whoever works at Google owns either dress or stripe pants. </li> 
-                                    <li> If Hasan works at Amazon, then Morgan is wearing dress pants.</li> 
+                                    <li> If Hasan works at Amazon, then Morgan is wearing pajama pants.</li> 
                                     <li> Sam doesn't work at Zoom. </li> 
                                     <li> The Zoom employee was wearing sweats. </li> 
                                 </div> 

@@ -49,10 +49,10 @@ class Motive extends Component {
                                 <h5> I'm worried about the <b> MONEY </b> </h5> 
 
                                 <div className = "explanation"> 
-                                    I'm worried that Andrew's research is going to ruin me. I've convinced the board that the quarantine will last 
-                                    for months, and now with the vaccine coming so soon because of Andrew, it may just be a matter of days. Our stock 
+                                    I'm worried that Steve's research is going to ruin me. I've convinced the board that the quarantine will last 
+                                    for months, and now with the vaccine coming so soon because of Steve, it may just be a matter of days. Our stock 
                                     price will tank with this news and there's a good chance I will be fired because of it. I have to put a stop to this 
-                                    research somehow, it doesn't matter how long I've known Andrew, I have kids and a family now. I wonder if he's still 
+                                    research somehow, it doesn't matter how long I've known Steve, I have kids and a family now. I wonder if he's still 
                                     taking those pills for his condition, I think I have some that look exactly like them....
                                 </div> 
                             </div> 

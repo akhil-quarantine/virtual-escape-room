@@ -16,7 +16,7 @@ const Starting = (props) => {
                             <tbody> 
                                 <tr> 
                                     <td style = {{paddingLeft: "25%"}}> <b> Name:</b> </td> 
-                                    <td> Professor Andrew Garg </td>         
+                                    <td> Professor Steve Patel </td>         
                                 </tr> 
                                 <tr> 
                                     <td  style = {{paddingLeft: "25%"}}> <b> Age: </b> </td> 
