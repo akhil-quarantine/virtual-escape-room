@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/virtual-escape-room/static/css/main.fc2cd764.chunk.css",
-    "main.js": "/virtual-escape-room/static/js/main.a70f48a2.chunk.js",
-    "main.js.map": "/virtual-escape-room/static/js/main.a70f48a2.chunk.js.map",
+    "main.js": "/virtual-escape-room/static/js/main.68521e86.chunk.js",
+    "main.js.map": "/virtual-escape-room/static/js/main.68521e86.chunk.js.map",
     "runtime-main.js": "/virtual-escape-room/static/js/runtime-main.8b74a3c2.js",
     "runtime-main.js.map": "/virtual-escape-room/static/js/runtime-main.8b74a3c2.js.map",
     "static/css/2.af3c1da9.chunk.css": "/virtual-escape-room/static/css/2.af3c1da9.chunk.css",
     "static/js/2.1247c2b5.chunk.js": "/virtual-escape-room/static/js/2.1247c2b5.chunk.js",
     "static/js/2.1247c2b5.chunk.js.map": "/virtual-escape-room/static/js/2.1247c2b5.chunk.js.map",
     "index.html": "/virtual-escape-room/index.html",
-    "precache-manifest.cf4c2bce2a485c60654d807f789ac4fb.js": "/virtual-escape-room/precache-manifest.cf4c2bce2a485c60654d807f789ac4fb.js",
+    "precache-manifest.b343c401530722226027e262c2cfb6f1.js": "/virtual-escape-room/precache-manifest.b343c401530722226027e262c2cfb6f1.js",
     "service-worker.js": "/virtual-escape-room/service-worker.js",
     "static/css/2.af3c1da9.chunk.css.map": "/virtual-escape-room/static/css/2.af3c1da9.chunk.css.map",
     "static/css/main.fc2cd764.chunk.css.map": "/virtual-escape-room/static/css/main.fc2cd764.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.af3c1da9.chunk.css",
     "static/js/2.1247c2b5.chunk.js",
     "static/css/main.fc2cd764.chunk.css",
-    "static/js/main.a70f48a2.chunk.js"
+    "static/js/main.68521e86.chunk.js"
   ]
 }
