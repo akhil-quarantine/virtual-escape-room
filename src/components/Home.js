@@ -32,7 +32,7 @@ function Home(props){
                     </div> 
                     <div class = "closing">
                         <p> Best of Luck, </p> 
-                        <p> A.Z, A.G </p>     
+                        <p> Akhil Killawala </p>     
                        
                     </div>  
                 </div> 
