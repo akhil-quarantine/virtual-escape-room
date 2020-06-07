@@ -26,7 +26,7 @@ class Suspects extends Component {
         }
     }
     render() { 
-        const companies = ["Amazon", "Goldman", "Google", "Gibson", "Zoom"].map(elem => {return(
+        const companies = ["Amazon", "Goldman", "Autodesk", "Gibson", "Zoom"].map(elem => {return(
             <tr> 
                 <td className = "tabletitlesuspect"> <b> {elem} </b> </td>
                 <td> <input /> </td> 
@@ -76,7 +76,7 @@ class Suspects extends Component {
                 {
                     num: "3", 
                     title: "Fina Hint: Full Solution",
-                    body: "Hasan: Zoom, sweats, Sam: Amazon, Pajamas, Morgan: Google, Dress, Claire: Goldman, Plaid, Spencer: Gibson, Striped "
+                    body: "Hasan: Zoom, sweats, Sam: Amazon, Pajamas, Morgan: Autodesk, Dress, Claire: Goldman, Plaid, Spencer: Gibson, Striped "
                 }
             ].slice(0, this.props.vals.hints)
             const hints = <Hint
@@ -168,13 +168,13 @@ class Suspects extends Component {
                                         who Karen said has just recently been talking to Steve. What information we did 
                                         manage to get is displayed in the tabs above. We also were able to get information 
                                         from other sources about where some of these people worked shown below. Finally, we know that they each work at one of the 5 companies:
-                                        <b> Goldman, Gibson Law, Google, Amazon or Zoom, </b> which each have separate mandatory dress codes.
+                                        <b> Goldman, Gibson Law, Autodesk, Amazon or Zoom, </b> which each have separate mandatory dress codes.
                                     </p>
                                     <li> Claire doesn't work at Amazon. </li>
                                     <li> The person who works at Amazon wears pajamas.</li>
                                     <li> Neither Hasan or Claire works at Gibson. </li>
                                     <li> If Spencer is wearing stripes he works at Gibson. </li> 
-                                    <li> Whoever works at Google owns either dress or stripe pants. </li> 
+                                    <li> Whoever works at Autodesk owns either dress or stripe pants. </li> 
                                     <li> If Hasan works at Amazon, then Morgan is wearing pajama pants.</li> 
                                     <li> Sam doesn't work at Zoom. </li> 
                                     <li> The Zoom employee was wearing sweats. </li> 
