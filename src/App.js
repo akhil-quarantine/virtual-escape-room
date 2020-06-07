@@ -178,8 +178,7 @@ class App extends Component {
                         <div class = "letter"> 
                             <h3> Sorry, you ran out of time! </h3>
                             
-                            <p> P.S You can easily try again by just hard refreshing the page (Ctrl-Shift-R) on Windows
-                                or (Cmd-Shift-R on Mac).</p>
+                            <p> P.S You can easily start again by clicking on <a href={"https://akhil-quarantine.github.io/virtual-escape-room/"}>this link</a>.</p>
                         </div>
                         <div> 
                             <Navigation active = {this.state.stages}/>
@@ -194,8 +193,7 @@ class App extends Component {
                         <div class = "letter"> 
                             <h3> Sorry, you ran out of guesses! </h3>
                             
-                            <p> P.S You can easily try again by just hard refreshing the page (Ctrl-Shift-R) on Windows
-                                or (Cmd-Shift-R on Mac).</p>
+                            <p> P.S You can easily start again by clicking on <a href={"https://akhil-quarantine.github.io/virtual-escape-room/"}>this link</a>.</p>
                         </div>
                     </div> 
                 </div>
