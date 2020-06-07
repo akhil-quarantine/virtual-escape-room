@@ -76,12 +76,12 @@ class Motive extends Component {
                     {
                         num: "2", 
                         title: "Hint: Gold Text",
-                        body: "Look at the starting letters. See anything that looks familiar?" 
+                        body: "Read the words backwards" 
                     }, 
                     {
                         num: "3", 
-                        title: "Hint: Gold Text pt.2",
-                        body: "U.S.A, U.S.A, U.S.A" 
+                        title: "Hint: Green Text",
+                        body: "Name of the series" 
                     }, 
                     {
                         num: "4", 
@@ -91,7 +91,7 @@ class Motive extends Component {
                     {
                         num: "5", 
                         title: "Final Hint: Everything ",
-                        body: "Black: Months, Red: Three, Gold: Presidents, Green: Fibonaaci, Purple: See You; middle gives your the roman numerals of what letter to use from each word in corresponding color piece. " 
+                        body: "Black: Months, Red: Thirty Seven, Gold: Presidents, Green: Fibonaaci, Purple: See You; middle gives your the roman numerals of what letter to use from each word in corresponding color piece. " 
                     }
                 ].slice(0, this.props.vals.hints)
                 const hints = <Hint
@@ -118,7 +118,7 @@ class Motive extends Component {
                             </div> 
                             <div class = "graphic2"> 
                                 <Webpage 
-                                    paragraphs = {[ "2, 4, 9, 2, 4, 4, 2, 3, 3, 9, _"]}
+                                    paragraphs = {[ "1, 2, 5, 10, 17, 26, __"]}
                                 /> 
                             </div> 
                             <div class = "graphic3"> 
@@ -128,9 +128,9 @@ class Motive extends Component {
                             </div> 
                             <div class = "graphic4"> 
                                 <Webpage 
-                                    title = "Shopping List"
+                                    title = "Find the odd one out"
                                     paragraphs = {[
-                                    "Diced Tomatoes", "Blood Oranges", "Great Beans", "Blue Cheese", "Grain Bread" ]}
+                                    "SNIP", "BACK", "TRAP", "DRAW" ]}
                                 /> 
                             </div> 
                             <div class = "graphic5"> 
