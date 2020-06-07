@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "8f5a349b15d959f1c010559d47a7ecfe",
+    "revision": "93d59fb257a3c5c2e87d1e87a1c868de",
     "url": "/virtual-escape-room/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/virtual-escape-room/static/css/2.af3c1da9.chunk.css"
   },
   {
-    "revision": "6bc34309e17de61bcf5b",
+    "revision": "bccee1fcd0399b08748d",
     "url": "/virtual-escape-room/static/css/main.fc2cd764.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/virtual-escape-room/static/js/2.1247c2b5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6bc34309e17de61bcf5b",
-    "url": "/virtual-escape-room/static/js/main.68521e86.chunk.js"
+    "revision": "bccee1fcd0399b08748d",
+    "url": "/virtual-escape-room/static/js/main.0584c406.chunk.js"
   },
   {
     "revision": "1b536770ed430f772993",
