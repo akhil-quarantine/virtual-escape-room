@@ -91,7 +91,7 @@ class Motive extends Component {
                     {
                         num: "5", 
                         title: "Final Hint: Everything ",
-                        body: "Black: Months, Red: Thirty Seven, Gold: Presidents, Green: Fibonaaci, Purple: See You; middle gives your the roman numerals of what letter to use from each word in corresponding color piece. " 
+                        body: "Black: Months, Red: Thirty Seven, Gold: Back, Green: Fibonaaci, Purple: See You; middle gives your the roman numerals of what letter to use from each word in corresponding color piece. " 
                     }
                 ].slice(0, this.props.vals.hints)
                 const hints = <Hint
