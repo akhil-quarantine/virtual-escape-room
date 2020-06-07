@@ -9,7 +9,7 @@ class Motive extends Component {
     constructor(props) { 
         super(props)
         this.state = { 
-            correct: ["n", "o", "d", "h", "y"]
+            correct: ["n", "o", "l", "h", "y"]
         }
     }
     handleInputChange = (event) => {
@@ -91,7 +91,7 @@ class Motive extends Component {
                     {
                         num: "5", 
                         title: "Final Hint: Everything ",
-                        body: "Black: Months, Red: Thirty Seven, Gold: Back, Green: Fibonaaci, Purple: See You; middle gives your the roman numerals of what letter to use from each word in corresponding color piece. " 
+                        body: "Black: Months, Red: Thirty Seven, Gold: Babble, Green: Fibonaaci, Purple: See You; middle gives your the roman numerals of what letter to use from each word in corresponding color piece. " 
                     }
                 ].slice(0, this.props.vals.hints)
                 const hints = <Hint
@@ -130,7 +130,7 @@ class Motive extends Component {
                                 <Webpage 
                                     title = "Find the odd one out"
                                     paragraphs = {[
-                                    "SNIP", "BACK", "TRAP", "DRAW" ]}
+                                    "SNIP", "BABBLE", "TRAP", "DRAW" ]}
                                 /> 
                             </div> 
                             <div class = "graphic5"> 
